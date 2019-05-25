@@ -1,15 +1,15 @@
 {
-  "main.css": "/severiDev/static/css/main.502b0a71.chunk.css",
-  "main.js": "/severiDev/static/js/main.86c4f4d1.chunk.js",
-  "main.js.map": "/severiDev/static/js/main.86c4f4d1.chunk.js.map",
-  "static/js/1.f1f941de.chunk.js": "/severiDev/static/js/1.f1f941de.chunk.js",
-  "static/js/1.f1f941de.chunk.js.map": "/severiDev/static/js/1.f1f941de.chunk.js.map",
+  "main.css": "/severiDev/static/css/main.3e0e842f.chunk.css",
+  "main.js": "/severiDev/static/js/main.e2a521a9.chunk.js",
+  "main.js.map": "/severiDev/static/js/main.e2a521a9.chunk.js.map",
+  "static/js/1.e2cfceaa.chunk.js": "/severiDev/static/js/1.e2cfceaa.chunk.js",
+  "static/js/1.e2cfceaa.chunk.js.map": "/severiDev/static/js/1.e2cfceaa.chunk.js.map",
   "runtime~main.js": "/severiDev/static/js/runtime~main.c63e7573.js",
   "runtime~main.js.map": "/severiDev/static/js/runtime~main.c63e7573.js.map",
-  "static/css/main.502b0a71.chunk.css.map": "/severiDev/static/css/main.502b0a71.chunk.css.map",
+  "static/css/main.3e0e842f.chunk.css.map": "/severiDev/static/css/main.3e0e842f.chunk.css.map",
   "static/media/shape.svg": "/severiDev/static/media/shape.43e76283.svg",
   "static/media/logo.svg": "/severiDev/static/media/logo.ee7cd8ed.svg",
   "index.html": "/severiDev/index.html",
-  "precache-manifest.4a6a303388630c2a417af1cebb35aedb.js": "/severiDev/precache-manifest.4a6a303388630c2a417af1cebb35aedb.js",
+  "precache-manifest.ac5dfa4a610bb7888bca57c8ced05507.js": "/severiDev/precache-manifest.ac5dfa4a610bb7888bca57c8ced05507.js",
   "service-worker.js": "/severiDev/service-worker.js"
 }

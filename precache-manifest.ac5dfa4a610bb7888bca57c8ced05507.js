@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/severiDev/static/js/runtime~main.c63e7573.js"
   },
   {
-    "revision": "86c4f4d1d5371f63d43e",
-    "url": "/severiDev/static/js/main.86c4f4d1.chunk.js"
+    "revision": "e2a521a995b3ae30c086",
+    "url": "/severiDev/static/js/main.e2a521a9.chunk.js"
   },
   {
-    "revision": "f1f941de6ecdc061a002",
-    "url": "/severiDev/static/js/1.f1f941de.chunk.js"
+    "revision": "e2cfceaa42ddb8e77ed4",
+    "url": "/severiDev/static/js/1.e2cfceaa.chunk.js"
   },
   {
-    "revision": "86c4f4d1d5371f63d43e",
-    "url": "/severiDev/static/css/main.502b0a71.chunk.css"
+    "revision": "e2a521a995b3ae30c086",
+    "url": "/severiDev/static/css/main.3e0e842f.chunk.css"
   },
   {
-    "revision": "bb44d1b94e59da382f181a396e48cbb3",
+    "revision": "0d939932d2c3b47565396ca01d20e3ef",
     "url": "/severiDev/index.html"
   }
 ];
