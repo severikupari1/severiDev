@@ -15,7 +15,7 @@ import ListItemText from '@material-ui/core/ListItemText';
 import SwipeableDrawer from '@material-ui/core/SwipeableDrawer';
 import Menu from './Menu';
 
-const logo = require('../images/logo.svg');
+const logo = 'http://www.puijowolley.fi/@Bin/1568438/puijologo.jpeg';
 
 const styles = theme => ({
   appBar: {
@@ -132,8 +132,8 @@ class Topbar extends Component {
                   <div className={classes.inline}>
                     <Typography variant="h6" color="inherit" noWrap>
                       <Link to='/' className={classes.link}>
-                        <img width={20} src={logo} alt="" />
-                        <span className={classes.tagline}>Material Sense</span>
+                        <img width={100} src={logo} alt="" />
+                        <span className={classes.tagline}>Puijo miehet 2-sarja</span>
                       </Link>
                     </Typography>
                   </div>
